@@ -25,7 +25,7 @@ DEBUG =
 
 module.exports = {
   VERSION: "v1.2.8",
-  SESSION:
+  SESSION:"1_9_951e_37a0_53eb"
     process.env.ASENA_SESSION === undefined ? "" : process.env.ASENA_SESSION,
   EXT: process.env.EXT === undefined ? undefined : process.env.EXT,
   LANG:
@@ -89,7 +89,7 @@ module.exports = {
   ANTIJID: process.env.ANTIJID === undefined ? "" : process.env.ANTIJID,
   STICKER_PACKNAME:
     process.env.STICKER_PACKNAME === undefined
-      ? "🥰,lyfe00011"
+      ? "💎𝑨𝒎𝒆𝒆𝒓 𝑿 𝑭𝒂𝒓𝒔𝒖💕"
       : process.env.STICKER_PACKNAME,
   BRAINSHOP:
     process.env.BRAINSHOP === undefined
